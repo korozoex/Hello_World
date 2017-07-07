@@ -1,0 +1,13 @@
+*.nc
+*.ngc
+*.dxf
+*.cfg
+*.stl
+*.x3g
+*.crv
+*.log
+*.prn
+*.rol
+pictures/
+videos/
+ncfiles/
